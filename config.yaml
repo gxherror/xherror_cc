@@ -1,4 +1,4 @@
-baseurl: https://example.com
+baseurl: 42.192.95.28:1313
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
@@ -58,7 +58,7 @@ params:
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: img/avatar.jpg
 
     article:
         math: false
@@ -199,13 +199,6 @@ menu:
           url: https://github.com/CaiJimmy/hugo-theme-stack
           params:
               icon: brand-github
-
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com
-          params:
-              icon: brand-twitter
-
 related:
     includeNewer: true
     threshold: 60
