@@ -1,6 +1,6 @@
 ---
 title: GO包管理
-description: 这是一个副标题
+description: 原创
 date: 2022-06-24
 slug: go-package-manage
 image: 1_CdjOgfolLt_GNJYBzI-1QQ.jpeg
