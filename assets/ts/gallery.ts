@@ -93,11 +93,11 @@ class StackGallery {
             figure.appendChild(el);
 
             /// Add figcaption if it exists
-            if (img.hasAttribute('alt')) {
-                const figcaption = document.createElement('figcaption');
-                figcaption.innerText = img.getAttribute('alt');
-                figure.appendChild(figcaption);
-            }
+            //if (img.hasAttribute('alt')) {
+            //   const figcaption = document.createElement('figcaption');
+            //    figcaption.innerText = img.getAttribute('alt');
+            //    figure.appendChild(figcaption);
+            //}
 
             /// Wrap img tag with <a> tag if image was not wrapped by <a> tag
             if (!hasLink) {

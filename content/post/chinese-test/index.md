@@ -1,12 +1,10 @@
 ---
-title: Chinese Test
+title: TEST
 description: 这是一个副标题
 date: 2020-09-09
 slug: test-chinese
 image: helena-hertz-wWZzXlDpMog-unsplash.jpg
 categories:
-    - Test
-    - 测试
 ---
 
 ## 正文测试
@@ -24,7 +22,8 @@ categories:
 > 
 > *[最暖的憂傷 - 田馥甄](https://www.youtube.com/watch?v=3aypp_YlBzI)*
 
-## 图片
+
+![1480d1925a5e3f0ad5a79a725abc7fa8-1.png](1480d1925a5e3f0ad5a79a725abc7fa8-1.png)
 
 ![Photo by Florian Klauer on Unsplash](florian-klauer-nptLmg6jqDo-unsplash.jpg)  ![Photo by Luca Bravo on Unsplash](luca-bravo-alS7ewQ41M8-unsplash.jpg) 
 
